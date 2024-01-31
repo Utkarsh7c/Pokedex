@@ -1,0 +1,19 @@
+.hi{
+    display: flex;
+    flex-direction: column;
+    padding-left: 34%;
+    
+}
+#pokedexHeading{
+
+    margin: 0 auto;
+    padding: 1.5rem;
+    letter-spacing: 5px;
+}
+h1{
+    padding-left: 30%;
+}
+.hii{
+    padding-left: 42%;
+    font-size: large;
+}
